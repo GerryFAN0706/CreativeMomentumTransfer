@@ -43,4 +43,4 @@ Each file contains 249 lines, corresponding to the N=247 participants after excl
 
 If you use these materials, please cite the original paper:
 
-Fan, G., Liu, D., Pan, L., & Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. *Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)*. (Note: Update with full citation details once available).
+Fan, G., Liu, D., Pan, L., & Huang, Y. (2025). Creative Momentum Transfer: How Timing and Labeling of AI Suggestions Shape Iterative Human Ideation. *Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)*.
